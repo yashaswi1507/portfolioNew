@@ -8,6 +8,7 @@ const Hero = () => {
     <div id="hero" className="hero">
       <h1>
         <img src={hero_pic} alt="" />
+        <br />
         <span>I am Yashaswi Jain,</span> fullStack Web Developer based in India.
       </h1>
       <p>
